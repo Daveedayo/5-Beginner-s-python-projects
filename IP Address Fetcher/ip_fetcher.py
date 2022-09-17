@@ -4,4 +4,4 @@ hostname = socket.gethostname()
 IP = socket.gethostbyname(hostname)
 
 print("Computer name is:", hostname)
-print("IP address:", IP)
+print("Computer IP Address is:", IP)
